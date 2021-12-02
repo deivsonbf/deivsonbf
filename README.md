@@ -1,17 +1,24 @@
-# Deivson Bezerra Ferreira
-## Desenvolvedor Jr.
-
-
+# Deivson Bezerra Ferreira 
+## Desenvolvedor
 ### 🤵 I’m currently working on CSI Locações
-### 📖 I’m currently learning
+
+
+
+### 📖 I’m currently learning 
+
     - Criação de REST APIs 
     - Javascript
     - Node JS
     - Bancos de dados relacionais e NoSql
-    - Design Responsivo com Media Queries, Flexbox e Grid 
+    - Design Responsivo com Media Queries, Flexbox e Grid
+    - Deploy de aplicações na nuvem (AWS e Heroku)
+    - AWS EC2
+    - AWS S3
+    - AWS RDS
+
 ### 💬 Ask me about ...
 
- Um afixionado por tecnologia e apaixonado por programação em busca de cada vez mais conhecimento. 
+ Um afixionado por tecnologia e apaixonado por programação em busca de cada vez mais conhecimento e desafios. 
 
 ----------
 
@@ -50,3 +57,8 @@
 ![alt](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 
+----------
+
+
+![alt](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![alt](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
