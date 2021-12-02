@@ -16,13 +16,15 @@
 
 ----------
 
-<a href=#>
+<a href="https://www.linkedin.com/in/deivson-ferreira/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 ----------
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deivsonbf)](https://github.com/deivsonbf)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deivsonbf&layout=compact)](https://github.com/deivsonbf?tab=repositories)
+
+----------
 
 
 ![alt](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
