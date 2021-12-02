@@ -6,6 +6,7 @@
  Um afixionado por tecnologia e apaixonado por programação em busca de cada vez mais conhecimento e desafios. 
 
 ----------
+## 📱 Contact me...
 
 <a href="https://www.linkedin.com/in/deivson-ferreira/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
